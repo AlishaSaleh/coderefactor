@@ -2,6 +2,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    /* position: sticky; */
 }
 
 body {
@@ -62,6 +63,8 @@ p {
 .float-left {
     float: left;
     margin-right: 25px;
+    /* position: absolute;
+    width: 33.33%; */
 }
 
 .float-right {
@@ -141,6 +144,8 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    /* position: relative;
+    float: right; */
 }
 
 .online-reputation-management {
